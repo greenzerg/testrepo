@@ -1,5 +1,5 @@
 !/bin/bash
-
+#test comment for dev branch
 srvstart() {
 
 }
@@ -13,8 +13,8 @@ case "$1" in
     stop)    stopme ;;
     restart) stopme; startme ;;
     *) echo "usage: $0 start|stop|restart" >&2
-       exit 1
-       ;;
+    exit 1
+    ;;
 esac
 
 
