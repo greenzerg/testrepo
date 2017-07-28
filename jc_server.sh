@@ -1,17 +1,17 @@
 #!/bin/bash
-#test comment for dev branch
+# start server
 srvstart() {
 
 }
-
+# stop server
 srvstop() {
 
 }
-
+# install server and utils
 srvinstall() {
 
 }
-
+# show help
 srvhelp() {
 
 }
