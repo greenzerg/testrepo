@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #test comment for dev branch
 srvstart() {
 
